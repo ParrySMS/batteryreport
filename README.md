@@ -9,14 +9,14 @@ a simple bat to get battery report in Windows
 ## Description 
 
 - 适用于Win8/Win10的脚本
-- a bat for Win8/Win10
-
-
-
 - 通过系统命令 `powercfg/batteryreport `, 用户可以自行查看系统自身的电池报告，其中能看到比较重要的电池容量，日期，电池损耗与使用情况。此脚本对命令进行了简单的封装，用户无需自行打开命令行进行相关的命令输入, 只需直接执行此脚本即可。
+
+
+- a bat for Win8/Win10
 - By the system command `powercfg/batteryreport`, users can view a battery report recorded in system, which include some important information, such as battery capacity, battery usage and usage history. This bat simply encapsulates the commands so that users don't need to use the command anymore, but simply execute the bat directly.
 
 ## 使用方法
+## Guide
 
 ![](https://github.com/ParrySMS/batteryreport/raw/master/how2use.png)
 
